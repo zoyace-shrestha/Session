@@ -1,8 +1,6 @@
 /**
  * Creates a simple graphical line.
  *
- * @author Dave Riley
- * @author M. Allen
  */
 import javax.swing.*;
 import java.awt.*;
