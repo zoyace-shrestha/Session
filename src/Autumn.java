@@ -3,7 +3,6 @@
  * This program draws several trees, to which graphical "leaves" can be added and
  * removed. Leaves can change colors, and can be made to grow larger and larger.
  *
- * @author M. Allen and D. Mathias
  */
 
 import java.awt.Color;
